@@ -7,7 +7,7 @@ CUDA 11.3 can be applied to most current graphics card driver versions. And you 
 
 
 ##  Dataset
-Our dataset,trained model and results can be downloaded from [here](https://workdrive.zohopublic.com.cn/folder/qwvthfb71c50db6484ac2a2f02af012240baa)
+Our dataset,trained models and results can be downloaded from [here](https://workdrive.zohopublic.com.cn/folder/qwvthfb71c50db6484ac2a2f02af012240baa)
 
 
 ## Train
