@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 13:07:40  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Mockito
+ -v 19b
+ -n 1900
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Mockito/modified_classes/19.src
+ -s 2019
+Created test suite archive: Mockito-19b-evosuite.1900.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Mockito/evosuite/1900
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 13:09:28  ######

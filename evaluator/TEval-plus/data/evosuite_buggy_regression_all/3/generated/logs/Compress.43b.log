@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 10:28:53  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Compress
+ -v 43b
+ -n 4300
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Compress/modified_classes/43.src
+ -s 5043
+Created test suite archive: Compress-43b-evosuite.4300.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/Compress/evosuite/4300
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 10:30:43  ######

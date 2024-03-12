@@ -1,0 +1,25 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 06:23:24  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Compress
+ -v 21b
+ -n 2100
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Compress/modified_classes/21.src
+ -s 2021
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 06:24:07  ######
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 06:24:12  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Compress
+ -v 21b
+ -n 2100
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Compress/modified_classes/21.src
+ -s 2021
+Created test suite archive: Compress-21b-evosuite.2100.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Compress/evosuite/2100
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 06:26:09  ######

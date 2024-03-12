@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:55:26  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonCore
+ -v 9b
+ -n 900
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/JacksonCore/modified_classes/9.src
+ -s 9009
+Created test suite archive: JacksonCore-9b-evosuite.900.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/9/generated/JacksonCore/evosuite/900
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:58:41  ######

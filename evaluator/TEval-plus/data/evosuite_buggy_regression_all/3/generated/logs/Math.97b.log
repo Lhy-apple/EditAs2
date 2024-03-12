@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 11:10:52  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Math
+ -v 97b
+ -n 9700
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Math/modified_classes/97.src
+ -s 5097
+Created test suite archive: Math-97b-evosuite.9700.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/Math/evosuite/9700
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 11:11:08  ######

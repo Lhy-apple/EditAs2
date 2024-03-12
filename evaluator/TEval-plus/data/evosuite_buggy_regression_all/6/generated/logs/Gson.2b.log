@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 17:14:31  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Gson
+ -v 2b
+ -n 200
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Gson/modified_classes/2.src
+ -s 10002
+Created test suite archive: Gson-2b-evosuite.200.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/10/generated/Gson/evosuite/200
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 17:16:20  ######

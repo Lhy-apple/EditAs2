@@ -1,0 +1,37 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:51:36  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonDatabind
+ -v 12b
+ -n 1200
+ -b 180
+ -c /data/swf/defects4j/framework/projects/JacksonDatabind/modified_classes/12.src
+ -s 2012
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:59:40  ######
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:59:45  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonDatabind
+ -v 12b
+ -n 1200
+ -b 180
+ -c /data/swf/defects4j/framework/projects/JacksonDatabind/modified_classes/12.src
+ -s 2012
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:07:47  ######
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:16:17  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonDatabind
+ -v 12b
+ -n 1200
+ -b 180
+ -c /data/swf/defects4j/framework/projects/JacksonDatabind/modified_classes/12.src
+ -s 2012
+Created test suite archive: JacksonDatabind-12b-evosuite.1200.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/JacksonDatabind/evosuite/1200
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:17:56  ######

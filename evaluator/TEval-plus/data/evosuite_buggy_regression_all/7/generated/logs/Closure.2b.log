@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 10:49:06  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Closure
+ -v 2b
+ -n 200
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Closure/modified_classes/2.src
+ -s 2002
+Created test suite archive: Closure-2b-evosuite.200.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Closure/evosuite/200
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 10:51:29  ######

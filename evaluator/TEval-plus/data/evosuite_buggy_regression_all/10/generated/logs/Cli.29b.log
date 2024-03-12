@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-12 05:25:02  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Cli
+ -v 29b
+ -n 2900
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Cli/modified_classes/29.src
+ -s 9029
+Created test suite archive: Cli-29b-evosuite.2900.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/9/generated/Cli/evosuite/2900
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-12 05:25:06  ######

@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:28:16  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Jsoup
+ -v 87b
+ -n 8700
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Jsoup/modified_classes/87.src
+ -s 2087
+Created test suite archive: Jsoup-87b-evosuite.8700.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Jsoup/evosuite/8700
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:31:17  ######

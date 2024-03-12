@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 21:32:01  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Chart
+ -v 24b
+ -n 2400
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Chart/modified_classes/24.src
+ -s 6024
+Created test suite archive: Chart-24b-evosuite.2400.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/6/generated/Chart/evosuite/2400
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 21:32:07  ######

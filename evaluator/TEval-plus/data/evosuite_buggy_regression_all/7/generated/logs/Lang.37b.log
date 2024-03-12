@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:39:42  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Lang
+ -v 37b
+ -n 3700
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Lang/modified_classes/37.src
+ -s 2037
+Created test suite archive: Lang-37b-evosuite.3700.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Lang/evosuite/3700
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:41:43  ######

@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:05:27  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Math
+ -v 8b
+ -n 800
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Math/modified_classes/8.src
+ -s 8008
+Created test suite archive: Math-8b-evosuite.800.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/8/generated/Math/evosuite/800
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:07:10  ######

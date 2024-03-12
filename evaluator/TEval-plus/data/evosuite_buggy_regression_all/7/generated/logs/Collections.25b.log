@@ -1,0 +1,48 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:30:27  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Collections
+ -v 25b
+ -n 2500
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 2025
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:31:04  ######
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:31:11  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Collections
+ -v 25b
+ -n 2500
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 2025
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:31:46  ######
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:16:19  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Collections
+ -v 25b
+ -n 2500
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 2025
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:16:57  ######
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:17:04  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Collections
+ -v 25b
+ -n 2500
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Collections/modified_classes/25.src
+ -s 2025
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-30 00:17:40  ######

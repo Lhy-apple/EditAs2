@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 20:42:58  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JxPath
+ -v 22b
+ -n 2200
+ -b 180
+ -c /data/swf/defects4j/framework/projects/JxPath/modified_classes/22.src
+ -s 5022
+Created test suite archive: JxPath-22b-evosuite.2200.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/JxPath/evosuite/2200
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 20:44:57  ######

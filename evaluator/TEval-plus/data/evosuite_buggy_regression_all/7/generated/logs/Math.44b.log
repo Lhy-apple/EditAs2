@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:53:01  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Math
+ -v 44b
+ -n 4400
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Math/modified_classes/44.src
+ -s 2044
+Created test suite archive: Math-44b-evosuite.4400.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Math/evosuite/4400
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 12:55:14  ######

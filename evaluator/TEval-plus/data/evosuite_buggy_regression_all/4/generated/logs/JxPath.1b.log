@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 14:56:01  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JxPath
+ -v 1b
+ -n 100
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/JxPath/modified_classes/1.src
+ -s 8001
+Created test suite archive: JxPath-1b-evosuite.100.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/8/generated/JxPath/evosuite/100
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 14:59:01  ######

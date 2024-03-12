@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 07:18:18  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Chart
+ -v 21b
+ -n 2100
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Chart/modified_classes/21.src
+ -s 3021
+Created test suite archive: Chart-21b-evosuite.2100.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/3/generated/Chart/evosuite/2100
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 07:20:10  ######

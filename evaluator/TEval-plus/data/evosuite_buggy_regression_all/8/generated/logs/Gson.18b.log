@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 19:51:51  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Gson
+ -v 18b
+ -n 1800
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Gson/modified_classes/18.src
+ -s 5018
+Created test suite archive: Gson-18b-evosuite.1800.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/Gson/evosuite/1800
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 19:53:28  ######

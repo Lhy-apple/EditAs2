@@ -1,0 +1,24 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:53:39  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Gson
+ -v 8b
+ -n 800
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Gson/modified_classes/8.src
+ -s 9008
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:53:50  ######
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:53:55  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Gson
+ -v 8b
+ -n 800
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Gson/modified_classes/8.src
+ -s 9008
+Test generator (evosuite) did not generate any tests!
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:54:06  ######

@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:02:00  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Lang
+ -v 38b
+ -n 3800
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Lang/modified_classes/38.src
+ -s 8038
+Created test suite archive: Lang-38b-evosuite.3800.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/8/generated/Lang/evosuite/3800
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:04:43  ######

@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:32:27  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Compress
+ -v 10b
+ -n 1000
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Compress/modified_classes/10.src
+ -s 2010
+Created test suite archive: Compress-10b-evosuite.1000.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Compress/evosuite/1000
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 11:34:04  ######

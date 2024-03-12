@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 13:15:02  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Time
+ -v 18b
+ -n 1800
+ -b 180
+ -c /data/swf/defects4j/framework/projects/Time/modified_classes/18.src
+ -s 2018
+Created test suite archive: Time-18b-evosuite.1800.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/2/generated/Time/evosuite/1800
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-29 13:16:53  ######

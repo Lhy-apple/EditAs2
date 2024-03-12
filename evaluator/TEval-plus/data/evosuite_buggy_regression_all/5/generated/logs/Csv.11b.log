@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:52:25  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Csv
+ -v 11b
+ -n 1100
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Csv/modified_classes/11.src
+ -s 9011
+Created test suite archive: Csv-11b-evosuite.1100.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/9/generated/Csv/evosuite/1100
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 15:54:08  ######

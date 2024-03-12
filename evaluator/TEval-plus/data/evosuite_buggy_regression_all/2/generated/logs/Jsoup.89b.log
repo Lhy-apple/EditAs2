@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 08:13:35  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Jsoup
+ -v 89b
+ -n 8900
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Jsoup/modified_classes/89.src
+ -s 3089
+Created test suite archive: Jsoup-89b-evosuite.8900.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/3/generated/Jsoup/evosuite/8900
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 08:15:15  ######

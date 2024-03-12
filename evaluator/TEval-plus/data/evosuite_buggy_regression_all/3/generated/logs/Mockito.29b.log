@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 11:14:49  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p Mockito
+ -v 29b
+ -n 2900
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/Mockito/modified_classes/29.src
+ -s 5029
+Created test suite archive: Mockito-29b-evosuite.2900.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/Mockito/evosuite/2900
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 11:15:00  ######

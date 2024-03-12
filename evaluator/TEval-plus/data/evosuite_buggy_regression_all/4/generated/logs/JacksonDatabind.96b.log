@@ -1,0 +1,13 @@
+######  Start test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 14:46:10  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonDatabind
+ -v 96b
+ -n 9600
+ -b 180
+ -c /data/lhy/defects4j/framework/projects/JacksonDatabind/modified_classes/96.src
+ -s 8096
+Created test suite archive: JacksonDatabind-96b-evosuite.9600.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/8/generated/JacksonDatabind/evosuite/9600
+######  End test generation  /data/lhy/defects4j/framework/bin/gen_tests.pl: 2023-09-26 14:47:55  ######

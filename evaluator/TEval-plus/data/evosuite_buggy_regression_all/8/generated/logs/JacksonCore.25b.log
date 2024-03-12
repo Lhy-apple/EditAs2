@@ -1,0 +1,13 @@
+######  Start test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 19:56:08  ######
+Mode: regression
+Parameters:
+ -g evosuite
+ -p JacksonCore
+ -v 25b
+ -n 2500
+ -b 180
+ -c /data/swf/defects4j/framework/projects/JacksonCore/modified_classes/25.src
+ -s 5025
+Created test suite archive: JacksonCore-25b-evosuite.2500.tar.bz2
+Moved test suite archive to output directory: data/evosuite_buggy_regression_all/5/generated/JacksonCore/evosuite/2500
+######  End test generation  /data/swf/defects4j/framework/bin/gen_tests.pl: 2023-07-11 19:58:55  ######
