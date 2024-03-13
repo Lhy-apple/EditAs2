@@ -19,7 +19,7 @@ pip3 install protobuf==3.20
 ```bash
 # run EvoSuite 10 times on the buggy versions
 # generate assertions using assertion generation method
-# Our randomly generated test cases are placed in the "./data/evosuite_buggy_regression_all" directory.
+# our randomly generated test cases are placed in the "./data/evosuite_buggy_regression_all" directory.
 bsah rq0.sh
 ```
 
