@@ -4,7 +4,7 @@ import pandas as pd
 import subprocess as sp
 import numpy as np
 
-import model_old.assertion_data as assertion_data
+import model.assertion_data as assertion_data
 
 pd.options.mode.chained_assignment = None
 
