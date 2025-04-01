@@ -8,7 +8,7 @@ CUDA 11.3 can be applied to most current graphics card driver versions. And you 
 
 ##  Dataset
 Data_atlas and Data_integration Dataset are sourced from the paper "Automated Assertion Generation via Information Retrieval and Its Integration with Deep Learning."
-Data_atlas, Data_integration, newly constructed cross-project test set, trained models and results can be downloaded from [here](https://workdrive.zohopublic.com.cn/folder/qwvthfb71c50db6484ac2a2f02af012240baa)
+All datasets, trained models and results can be downloaded from [here](https://workdrive.zohopublic.com.cn/folder/qwvthfb71c50db6484ac2a2f02af012240baa)
 
 
 ## Training the Model
