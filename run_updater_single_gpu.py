@@ -26,12 +26,12 @@ from transformers import (AdamW, get_linear_schedule_with_warmup,
                           BartConfig, BartForConditionalGeneration, BartTokenizer,
                           T5Config, T5ForConditionalGeneration, T5Tokenizer)
 from sklearn.metrics import auc  
-from bleu import _bleu, compute_sentence_level_blue
+# from bleu import _bleu, compute_sentence_level_blue
 
 from configs import add_args, set_seed
 from models import EditModel
 from utils import load_and_cache_data
-from mertrics import calc_method_name_mertrics
+# from mertrics import calc_method_name_mertrics
 
 
 def main():
@@ -199,7 +199,7 @@ def main():
         with open(os.path.join(args.results_dir,"test.output"),'w',encoding='utf-8') as f, open(os.path.join(args.results_dir,"test.gold"),'w',encoding='utf-8') as f1:
             for pre_name,gold in zip(pre_text,test_examples):
                     f.write(pre_name+'\n')
-                    f1.write(gold.dst_name+'\n')
+                    f1.write(gold.dst_ass+'\n')
 
 if __name__ == "__main__":
     main()
