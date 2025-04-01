@@ -14,7 +14,7 @@ class EditModel(nn.Module):
             loss, logits = outputs.loss, outputs.logits
             return loss, logits
         else:
-            generate_ids = self.t5_model.generate(input_ids=source_ids,attention_mask=source_mask, max_length=self.args.max_dst_name_length)
+            generate_ids = self.t5_model.generate(input_ids=source_ids,attention_mask=source_mask, max_length=self.args.max_dst_ass_length)
             pres = self.t5_tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
             return generate_ids, pres
     
